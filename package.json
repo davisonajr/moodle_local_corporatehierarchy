@@ -1,0 +1,23 @@
+{
+  "name": "corporatehierarchy",
+  "version": "1.0.0",
+  "description": "Note, the files inside this folder should be copied to your plugin root if you want to use vuejs's grunt tasks. You will then need to run npm install from within your plugin root folder. After that the following tasks will be exposed:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davisonajr/moodle_local_corporatehierarchy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davisonajr/moodle_local_corporatehierarchy/issues"
+  },
+  "homepage": "https://github.com/davisonajr/moodle_local_corporatehierarchy#readme",
+  "dependencies": {
+    "vue": "^2.7.4"
+  }
+}
