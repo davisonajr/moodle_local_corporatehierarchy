@@ -18,7 +18,7 @@ Make sure you already run `npm install -g grunt-cli` and that you installed all 
 
 To build the files and Vue components, run at the plugin root:
 
-```grunt amd --force```{sh}
+```grunt amd --force```
 
 - this compiles your amd modules AND transpiles from es6 to es5
 
